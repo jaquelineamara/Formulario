@@ -1,0 +1,13 @@
+form {
+    background-color: rgb(241, 238, 235);
+    
+    display: flex;
+    flex-direction: column;
+
+}
+
+ body{
+   border-color: rgb(200, 120, 205);
+   font-family: Georgia, 'Times New Roman', Times, serif;
+ 
+ }
